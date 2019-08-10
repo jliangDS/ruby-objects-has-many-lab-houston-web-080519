@@ -10,7 +10,7 @@ class Author
     
   end 
   
-  def add_posts 
+  def add_post
     
   end 
   
