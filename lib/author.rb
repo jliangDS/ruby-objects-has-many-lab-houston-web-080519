@@ -7,7 +7,7 @@ class Author
   end 
   
   def posts 
-    
+    Song.all 
   end 
   
   def add_post
